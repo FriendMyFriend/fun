@@ -1,4 +1,5 @@
 *.md
 /tests
 *.ipynb
+/notebooks
 /source/examples
